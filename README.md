@@ -1,6 +1,9 @@
 ### Hi there I'm SunJet👋
 
-I'm a Software Engineer/Full Stack Web Devloper and 2021 Flatiron School SE bootcamp graduate based in the NYC Area. In my free time, I love to hike ⛰️ , code ⌨️ , travel ✈️ , and play video games 🎮 .
+I'm a Software Engineer/Full Stack Web Devloper with project management and manufacturing experince based in the NYC Area. 
+
+![image](https://user-images.githubusercontent.com/60858671/117157127-518aa700-ad8c-11eb-9bb6-371d76d32637.png)
+In my free time, I love to hike ⛰️ , code ⌨️ , travel ✈️ , and play video games 🎮 .
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning algorithms and data structures
