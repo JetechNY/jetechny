@@ -11,7 +11,7 @@ In my free time, I love to hike ⛰️ , code ⌨️ , travel ✈️ , and play 
 
 **🍔 Trypto Fan 🍔**
 
-A robust, scalable, and mobile-friendly e-commerce solution for all your Fast Food delivery needs
+A robust, scalable, and mobile-friendly e-commerce solution for all your Fast Food delivery needs.
 
 **🃏 Flash Flip 🃏**
 
@@ -19,7 +19,7 @@ A flashcard app that allows users to make custom flashcards and test their memor
 
 **🚗 ZoomZoom 🚗**
 
-Start your new car search with one easy to use car review web app 
+Start your new car search with one easy to use car review web app.
 
 ## 🤝 Connect With Me! 🤝
 
