@@ -17,6 +17,7 @@ A flashcard app that allows users to make custom flashcards and test their memor
 Start your new car search with one easy to use car review web app 
 
 🤝 Connect With Me! 🤝
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunjetliu/)](https://www.linkedin.com/in/sunjetliu/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://sunjetliu.medium.com//)](https://sunjetliu.medium.com/)
 
