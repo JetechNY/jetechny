@@ -7,13 +7,13 @@ I'm a Software Engineer/Full Stack Web Devloper and 2021 Flatiron School SE boot
 
 ## 🎨 Projects 🎨
 
-🍔 Trypto Fan 🍔
+**🍔 Trypto Fan 🍔**
 A robust, scalable, and mobile-friendly e-commerce solution for all your Fast Food delivery needs
 
-🃏 Flash Flip 🃏
+**🃏 Flash Flip 🃏**
 A flashcard app that allows users to make custom flashcards and test their memory to help study for anything. 
 
-🚗 ZoomZoom 🚗
+**🚗 ZoomZoom 🚗**
 Start your new car search with one easy to use car review web app 
 
 ## 🤝 Connect With Me! 🤝
