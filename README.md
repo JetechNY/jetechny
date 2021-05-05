@@ -1,4 +1,4 @@
-### Hi there I'm SunJet👋
+### Hi there, I'm SunJet👋
 
 I'm a Software Engineer/Full Stack Web Devloper with project management and manufacturing experince based in the NYC Area. 
 
