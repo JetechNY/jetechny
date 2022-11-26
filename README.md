@@ -4,7 +4,6 @@ I'm a Software Engineer/Full Stack Web Devloper with project management and manu
 
 In my free time, I love to hike, code, travel, and play video games.
 
-- I’m currently working on building my portfolio
 - I’m currently learning algorithms and data structures
 
 ## Projects 
