@@ -1,12 +1,16 @@
 ### Hi there, I'm SunJet
 
-I'm a Software Engineer/Full Stack Web Devloper with project management and manufacturing experince based in the NYC Area. 
+I'm a Software Engineer/Full Stack Web Devloper with project management and manufacturing experience based in the NYC Area. 
 
-In my free time, I love to hike, code, travel, and play video games.
+In my free time, I love to hike, code, travel, and spending time with my baby daughter.
 
 - I’m currently learning algorithms and data structures
 
 ## Projects 
+
+** GrubHub **
+
+Developing hybrid frontend applications for GH Driver app to promote driver engagement, retention, and reduce fraud.
 
 ** Trypto Fan **
 
