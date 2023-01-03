@@ -1,6 +1,6 @@
 ### Hi there, I'm SunJet
 
-I'm a Software Engineer/Full Stack Web Devloper with project management and manufacturing experience based in the NYC Area. 
+I'm a Software Engineer/Full Stack Web Developer with project management and manufacturing experience based in the NYC Area. 
 
 In my free time, I love to hike, code, travel, and spending time with my baby daughter.
 
