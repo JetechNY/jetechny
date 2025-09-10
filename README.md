@@ -1,33 +1,49 @@
-### Hi there, I'm SunJet
+# Hi there, I'm SunJet 👋
 
-I'm a Software Engineer/Full Stack Web Developer with project management and manufacturing experience based in the NYC Area. 
+💻 Software Engineer @ Paramount+ | React, Next.js, GraphQL  
+📍 Based in the NYC Area
 
-In my free time, I love to hike, code, travel, and spending time with my baby daughter.
+In my free time, I love hiking, coding side projects, traveling, and spending time with my daughter.
 
-- I’m currently learning algorithms and data structures
+---
 
-## Projects 
+## 🔭 What I’m Currently Working On
+- Migrating legacy apps to a modern **React + Next.js + GraphQL monorepo** at Paramount+  
+- Building **Upsell and subscription flow pages** with dynamic pricing, coupon logic, and analytics instrumentation  
+- Implementing **feature flags, A/B test tracking, and CI/CD pipelines** to support experimentation at scale  
+- Deepening my knowledge of **algorithms and data structures**
 
-** GrubHub **
+---
 
-Developing hybrid frontend applications for GH Driver app to promote driver engagement, retention, and reduce fraud.
+## 🚀 Selected Projects
 
-** Trypto Fan **
+### Professional Experience
+**Paramount+ (Streaming Platform)**  
+- Developed **Upsell Plans Table** and **Upsell Tracking** to improve customer acquisition flows  
+- Implemented **granular analytics instrumentation** (plan selections, promo codes, scroll state) to support A/B testing  
+- Refactored legacy **Vue/PHP frontend** into a scalable **React + TypeScript + GraphQL** codebase  
+- Collaborated with cross-functional teams (QA, product, marketing ops) to launch new subscription features  
 
-A robust, scalable, and mobile-friendly e-commerce solution for all your Fast Food delivery needs.
+### Personal Projects
+**GrubHub Driver App**  
+Hybrid frontend applications to promote driver engagement, retention, and reduce fraud.
 
-** Flash Flip **
+**Trypto Fan**  
+A robust, scalable, and mobile-friendly e-commerce solution for fast food delivery.
 
-A flashcard app that allows users to make custom flashcards and test their memory to help study for anything. 
+**Flash Flip**  
+A flashcard app that allows users to make custom flashcards and test their memory to study effectively.
 
-** ZoomZoom **
+**ZoomZoom**  
+A car review web app to streamline new car searches.
 
-Start your new car search with one easy to use car review web app.
+---
 
-##  Connect With Me! 
+## 🛠️ Tech Stack
+React | Next.js | GraphQL | TypeScript | Node.js | Jest/RTL | SQL | AWS
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunjetliu/)](https://www.linkedin.com/in/sunjetliu/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://sunjetliu.medium.com//)](https://sunjetliu.medium.com/)
+---
 
-
-        
+## 📫 Connect With Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunjetliu/)](https://www.linkedin.com/in/sunjetliu/)  
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://sunjetliu.medium.com//)](https://sunjetliu.medium.com/)  
