@@ -1,16 +1,14 @@
 # Hi there, I'm SunJet 👋
 
-💻 Software Engineer @ Paramount+ | React, Next.js, GraphQL  
-📍 Based in the NYC Area
-
-In my free time, I love hiking, coding side projects, traveling, and spending time with my daughter.
+💻 Software Engineer @ Paramount+/SkyDance | React, Vue, Next.js, GraphQL  
+In my free time, I love gaming, coding side projects, traveling, and spending time with my daughter.
 
 ---
 
 ## 🔭 What I’m Currently Working On
-- Migrating legacy apps to a modern **React + Next.js + GraphQL monorepo** at Paramount+  
+- Migrating legacy Vue/PHP apps to a modern **React + Next.js + GraphQL monorepo** at Paramount+  
 - Building **Upsell and subscription flow pages** with dynamic pricing, coupon logic, and analytics instrumentation  
-- Implementing **feature flags, A/B test tracking, and CI/CD pipelines** to support experimentation at scale  
+- Implementing **feature flags, A/B test, tracking, and CI/CD pipelines** to support experimentation at scale  
 - Deepening my knowledge of **algorithms and data structures**
 
 ---
@@ -19,15 +17,15 @@ In my free time, I love hiking, coding side projects, traveling, and spending ti
 
 ### Professional Experience
 **Paramount+ (Streaming Platform)**  
-- Developed **Upsell Plans Table** and **Upsell Tracking** to improve customer acquisition flows  
+- Developed **Upsell Page** and **Upsell Tracking** **Cancel Save** to improve customer acquisition and retention  
 - Implemented **granular analytics instrumentation** (plan selections, promo codes, scroll state) to support A/B testing  
 - Refactored legacy **Vue/PHP frontend** into a scalable **React + TypeScript + GraphQL** codebase  
 - Collaborated with cross-functional teams (QA, product, marketing ops) to launch new subscription features  
 
-### Personal Projects
-**GrubHub Driver App**  
+**GrubHub - Driver App**  
 Hybrid frontend applications to promote driver engagement, retention, and reduce fraud.
 
+### Personal Projects
 **Trypto Fan**  
 A robust, scalable, and mobile-friendly e-commerce solution for fast food delivery.
 
@@ -40,7 +38,7 @@ A car review web app to streamline new car searches.
 ---
 
 ## 🛠️ Tech Stack
-React | Next.js | GraphQL | TypeScript | Node.js | Jest/RTL | SQL | AWS
+React | Vue | PHP| Next.js | GraphQL | TypeScript | Node.js | Jest/RTL | SQL | AWS
 
 ---
 
