@@ -10,6 +10,7 @@ In my free time, I love gaming, coding side projects, traveling, and spending ti
 - Building **Upsell and subscription flow pages** with dynamic pricing, coupon logic, and analytics instrumentation  
 - Implementing **feature flags, A/B test, tracking, and CI/CD pipelines** to support experimentation at scale  
 - Deepening my knowledge of **algorithms and data structures**
+- Using AI to create apps the help me in my day to day
 
 ---
 
